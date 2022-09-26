@@ -1,6 +1,6 @@
 #A tiny css library
 
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fancyblood@1.0.2/package/dist/fancyblood.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fancyblood@1.0.3/package/dist/fancyblood.min.css">
     
     <nav class="navbar-error p-0">
         <div class="contains text-white">
